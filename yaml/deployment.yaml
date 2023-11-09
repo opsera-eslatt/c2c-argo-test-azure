@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: back-end
-          image: 792373136340.dkr.ecr.us-east-2.amazonaws.com/cisco_pov:1a125b1684949847a80ca237f9b80c5c5f4d2e2c
+          image: eslattacr.azurecr.io/azure-demo-push-repo:278679554c3e68abfea864f0553e3f9d82f9a17d
 
 ---
 #Service
